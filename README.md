@@ -2,9 +2,9 @@
 ###### This Is Our 3rd Sem Open-End-Project
 ### TASK
 - [ ]
-  - [ ] Home
-  - [ ] WishList
-  - [ ] Search Bar
-  - [ ] Login
+  - [x] Home
+  - [x] WishList
+  - [x] Search Bar
+  - [x] Login
   - [ ] Menu Bar
 - [ ] Content
