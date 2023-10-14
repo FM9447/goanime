@@ -1,0 +1,34 @@
+fieldset{
+    width: 350px;
+    height: 350px;
+    margin: 14%;
+    border: 4px solid black;
+    outline: 1.8px solid greenyellow;
+    box-shadow: 20px 20px 20px black;
+    color: black;
+    text-shadow: .5px .5px 1.5px greenyellow;
+    font-size: larger;
+}
+h1{
+    text-shadow: 2px 2px 2px greenyellow;
+}
+.submit{
+    text-shadow: 0px 0px greenyellow;
+    text-align: center;
+}
+body{
+    background-image: url(/media/Login_background.jpg);
+    background-size: 100%;
+}
+button{
+    color: greenyellow;
+    background-color: rgba(0, 0, 139, 0.877);
+}
+input,textarea{
+    background-color: rgba(0, 0, 139, 0.877);
+  
+}
+::placeholder{
+    
+    color: greenyellow;
+}
